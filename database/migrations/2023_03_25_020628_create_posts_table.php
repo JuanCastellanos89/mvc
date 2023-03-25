@@ -19,6 +19,8 @@ return new class extends Migration
             $table->enum('posted',['yes', 'no'])->default('yes');
             $table->bigInteger('category_id')->nullable()->unsigned();                      
             $table->timestamps();
+
+            $table->foreign('category_id')->references('id')->on('categories');
         });
     }
 

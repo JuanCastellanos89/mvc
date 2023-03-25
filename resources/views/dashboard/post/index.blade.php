@@ -46,7 +46,7 @@
                                             <td>{{ $post->url_clean }}</td>
                                             <td>{{ $post->content }}</td>
                                             <td>{{ $post->posted }}</td>
-                                            <td>{{ $post->category_id }}</td>
+                                            <td>{{ $post->category->category }}</td>
                                             <td>{{ $post->created_at->format('d-m-Y') }}</td>
                                             <td>{{ $post->updated_at->format('d-m-Y') }}</td>
                                             <td>
