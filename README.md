@@ -12,8 +12,12 @@ Autor: Juan Camilo Castellanos
 Desarrollo de la actividad 2 para la clase frameworksMVC
 Docente: Víctor Hugo Mercado Ramos
 
-Crud Categorias --ok
-Crud Posts --ok
-Relacion llave foranea --ok 
-Login y registro de usuario --ok
+<p>Crud Categorias --ok</p>
+
+<p>Crud Posts --ok </p>
+
+<p>Relacion llave foranea --ok</p>
+
+<p>Login y registro de usuario --ok</p>
+
 
