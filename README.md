@@ -12,10 +12,3 @@ Autor: Juan Camilo Castellanos
 Desarrollo de la actividad 2 para la clase frameworksMVC
 Docente: Víctor Hugo Mercado Ramos
 
-Punto # 1 - solucionado.
-Punto # 2 - solucionado.
-Punto # 3 - parcial-pendiente
-
-Errores en el punto 3 = Las rutas de la Api no funcionan.
-
-
