@@ -12,6 +12,8 @@ Autor: Juan Camilo Castellanos
 Desarrollo de la actividad 2 para la clase frameworksMVC
 Docente: Víctor Hugo Mercado Ramos
 
+<p>IMPORTANTE Datos para loguearse: e-mail: pepe@mail.com contraseña: 123456789</p>
+
 <p>Crud Categorias --ok</p>
 
 <p>Crud Posts --ok </p>
